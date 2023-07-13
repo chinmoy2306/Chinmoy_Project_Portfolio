@@ -1,4 +1,3 @@
-# Chinmoy_Project_Portfolio
 ## [Project 1: Income Statement Dashboard](https://github.com/chinmoy2306/Income_statement_analytics.git)
 ### Overview
 This repository contains an income statement dashboard developed using Power BI. The dashboard provides visualizations and insights based on microsoft income statement data for FY-21 and FY-22. The data used in this project was obtained from the Microsoft official website's financial statements section.
